@@ -1,1 +1,1 @@
-# rsschool-cv
+# _https://sezamiti.github.io/rsschool-cv/_
