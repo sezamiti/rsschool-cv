@@ -1,1 +1,1 @@
-# https://sezamiti.github.io/rsschool-cv/cv
+# https://sezamiti.github.io/rsschool-cv/
