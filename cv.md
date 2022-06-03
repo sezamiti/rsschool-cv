@@ -12,7 +12,7 @@
 ---
 
 **About myself:**
-My name is Serik, I am 28 years old, and I want to become a strong FrontEnd programmer.
+_My name is Serik, I am 28 years old, and I want to become a strong FrontEnd programmer._
 
 ---
 
